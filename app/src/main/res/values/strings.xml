@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PushNotification</string>
+    <string name="default_notification_channel_id" translatable="false">my_channel_01_demo</string>
+    <string name="default_notification_channel_name">Demo Notification</string>
+    <string name="default_notification_channel_description">Notification for Demo purpose  with oreo+</string>
+    <string name="log_token">Log Token</string>
+    <string name="msg_subscribed">Subscribed to weather topic</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+    <string name="msg_subscribe_failed">Failed to subscribe to weather topic</string>
+    <string name="registration">Registration</string>
+</resources>
